@@ -49,7 +49,7 @@
     "@prefresh/next": "0.3.2",
     "@statickit/react": "2.1.1",
     "date-fns": "2.15.0",
-    "next": "9.5.1",
+    "next": "9.5.4",
     "next-offline": "5.0.2",
     "preact": "10.4.6",
     "preact-render-to-string": "5.1.10",
