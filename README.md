@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi There 👋
 
-<!--
-**piprees/piprees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pip, I'm a UX Engineer based in Wales with over 10 years of user-focused experience in the web and digital industries.
 
-Here are some ideas to get you started:
+[Visit my site](https://piprees.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Join me
+
+* [Connect on LinkedIn](https://www.linkedin.com/in/piprees)
+* [Graphical Work on Behance](https://www.behance.net/piprees)
+* [Follow me on dev.to](https://dev.to/piprees)
+* [Follow me on Twitter](https://twitter.com/piprees)
+* [Send me an email](https://piprees.dev/#contact)
