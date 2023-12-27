@@ -1,13 +1,5 @@
-# Hi There 👋
+# Hi, I'm Pip- a software engineer & product designer based in Wales who loves designing, building, and optimising digital experiences.
 
-My name is Pip, I'm a UX Engineer based in Wales with over 10 years of user-focused experience in the web and digital industries.
+I work well within innovative startups who have an all hands on deck approach, or well established teams looking for a leader who understands how to bridge the gap between great product design and successful development. I prefer to work remote async, but appreciate a hybrid approach can be a lot of fun too.
 
 [Visit my site](https://piprees.dev/)
-
-## Join me
-
-* [Connect on LinkedIn](https://www.linkedin.com/in/piprees)
-* [Graphical Work on Behance](https://www.behance.net/piprees)
-* [Follow me on dev.to](https://dev.to/piprees)
-* [Follow me on Twitter](https://twitter.com/piprees)
-* [Send me an email](https://piprees.dev/#contact)
